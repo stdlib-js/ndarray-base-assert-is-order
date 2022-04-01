@@ -1,0 +1,49 @@
+{
+  "name": "@stdlib/ndarray-base-assert-is-order",
+  "version": "0.0.0",
+  "description": "Test if an input value is an ndarray order.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/ndarray-base-assert-is-order.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "types",
+    "base",
+    "ndarray",
+    "order",
+    "row-major",
+    "column-major",
+    "c",
+    "fortran",
+    "layout",
+    "memory",
+    "multidimensional",
+    "array",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "assert",
+    "test",
+    "check",
+    "is",
+    "valid",
+    "validate",
+    "validation",
+    "isvalid",
+    "isorder"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
