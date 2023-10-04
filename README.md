@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import isOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-order@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-base-assert-is-order/tags). For example,
+
+```javascript
 import isOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-order@v0.1.1-esm/index.mjs';
 ```
 
@@ -93,7 +98,7 @@ bool = isOrder( 'column-major' );
 <body>
 <script type="module">
 
-import isOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-order@v0.1.1-esm/index.mjs';
+import isOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-order@esm/index.mjs';
 
 var bool = isOrder( 'row-major' );
 // returns true
