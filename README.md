@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-order@esm/index.mjs';
+import isOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-order@v0.1.1-esm/index.mjs';
 ```
 
 #### isOrder( value )
@@ -93,7 +93,7 @@ bool = isOrder( 'column-major' );
 <body>
 <script type="module">
 
-import isOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-order@esm/index.mjs';
+import isOrder from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-assert-is-order@v0.1.1-esm/index.mjs';
 
 var bool = isOrder( 'row-major' );
 // returns true
