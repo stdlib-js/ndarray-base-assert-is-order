@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array-base-assert-contains": "^0.2.2",
+    "@stdlib/array-base-assert-contains": "^0.2.3",
     "@stdlib/ndarray-orders": "^0.2.3"
   },
   "devDependencies": {
